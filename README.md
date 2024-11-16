@@ -1,5 +1,7 @@
 Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)
 
+VA3HDL en español [YouTube - Video en español](https://www.youtube.com/watch?v=IBMxELofKVA)
+
 ### User submitted live Dashboards:
 
 [Hamdash Demo](https://va3hdl.github.io/hamdash/)  -- Test it here before download
@@ -83,11 +85,42 @@ There is very little that can be done on the client side if the source site does
 
 As a workaround for these issues, I've tested running a local proxy on my computer to strip out the x-frame-options header coming from the source server and it worked well on some cases. But setting up a proxy adds another layer of complexity to the setup.
 
+Use this online tool to test any URL to see if it can be displayed in an iframe before adding it to the dashboard -> [iFrame Tester online](https://iframetester.com/)
+
 ## Updates
 
 If you want to upgrade to the latest version, the only file you need to update is hamdash.html (do not overwrite your config.js file.)
 
 Check updated demo!
+
+### 2024.11.13 Changelog:
+
+- Added capability to customize the grid size (any combination of number of columns and number of rows for the dashboard tiles.) See examples and usage below.
+- Removed "VA3HDL" from the page title.
+- Grid size examples:
+
+--> 2x2:
+
+<img src="https://github.com/VA3HDL/hamdashboard/blob/main/examples/2x2.png?raw=true" width="200">
+
+--> 3x3:
+
+<img src="https://github.com/VA3HDL/hamdashboard/blob/main/examples/3x3.png?raw=true" width="200">
+
+--> 4x4:
+
+<img src="https://github.com/VA3HDL/hamdashboard/blob/main/examples/4x4.png?raw=true" width="200">
+
+--> 5x3:
+
+<img src="https://github.com/VA3HDL/hamdashboard/blob/main/examples/5x3.png?raw=true" width="200">
+
+- Usage: Add these lines to your config.js file
+
+        // Grid layout
+        var layout_cols = 4;
+        var layout_rows = 3;
+
 
 ### 2024.10.16 Changelog:
 
