@@ -2,9 +2,9 @@ Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=s
 
 VA3HDL en español [YouTube - Video en español](https://www.youtube.com/watch?v=IBMxELofKVA)
 
-### User submitted live Dashboards:
-
 [Hamdash Demo](https://va3hdl.github.io/hamdash/)  -- Test it here before download
+
+### User submitted live Dashboards:
 
 [BCAT N4TDX](https://qsl.net/n/n5ng/BCAT/)  -- by Steve N5NG, in use by the Brevard County (Florida) ARES Team
 
@@ -18,9 +18,35 @@ VA3HDL en español [YouTube - Video en español](https://www.youtube.com/watch?v
 
 [WA4MED](https://dashboard.wa4med.us/hamdash.html)  -- by Matthew WA4MED
 
-[W2SZ](https://dashboard.w2sz.org/)  -- by Brian W2SZ
+[PY3TX](https://dashboard.py3tx.com/) -- South America
 
-[N2YQT](https://dashboard.tourge.net/)  -- by Ryan N2YQT
+[VE7CAS](https://hamradio.smecher.bc.ca/) -- Vancouver, BC
+
+[K6BCW](https://elihickox.com/radio/hamdashboard/hamdash.html) -- San Francisco bay area
+
+[KN6PTQ](https://kn6ptq.com/) -- San Francisco Bay Area
+
+[W2SZ](https://dashboard.w2sz.org/)  -- NE US by Brian W2SZ
+
+[N2YQT](https://dashboard.tourge.net/)  -- NE US by Ryan N2YQT
+
+[KC2VWR](https://baef57ae.ham-desktop.pages.dev/) -- NE US
+
+[KD2YFY](https://dash.kd2yfy.net/) -- NE US
+
+[KD4VRD](https://hamdashboard-8fn.pages.dev/) -- North Carolina
+
+[KD5PQJ](https://kd5pqj.com/dash/index.html) -- Texas
+
+[N5GAH](http://n5gah.com/) -- Texas
+
+[KJ7YYI](https://kj7yyi.net/ham-dash/) -- Arizona
+
+[NQ0M](https://hamdash.nq0m.com/#) -- Kansas
+
+[W3RDW](https://dashboard.w3rdw.radio/) -- Ohio
+
+[W4QAL](https://w4qal.net/dashboard/index.html) -- SE US - West Florida
 
 ### Instructions:
 1. Just download the files from the Github repository (hamdash.html, config.js, and wheelzoom.js) and keep them together on the same folder.
